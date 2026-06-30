@@ -120,7 +120,7 @@ The optimal number of clusters was determined using:
 Elbow Method
 Silhouette Score
 ## Customer Segments
-## Cluster 0 – Older Low-Value Customers
+**Cluster 0 – Older Low-Value Customers**
 Characteristics
 Moderate Income
 Older Customers
