@@ -121,54 +121,70 @@ Elbow Method
 Silhouette Score
 ## Customer Segments
 **Cluster 0 – Older Low-Value Customers**
+
 Characteristics
+
 Moderate Income
 Older Customers
 Low Spending
 Few Purchases
 Low Campaign Response
+
 Business Strategy
+
 Discount Coupons
 Loyalty Points
 Reminder Emails
 Re-engagement Campaigns
-## Cluster 1 – Affluent Loyal Customers
+**Cluster 1 – Affluent Loyal Customers**
+
 Characteristics
+
 High Income
 High Spending
 Frequent Purchases
 Good Campaign Acceptance
+
 Business Strategy
+
 VIP Membership
 Personalized Recommendations
 Premium Product Bundles
 Loyalty Rewards
-## Cluster 2 – Premium High-Value Customers 
+**Cluster 2 – Premium High-Value Customers**
+
 Characteristics
+
 Highest Income
 Highest Spending
 Highest Purchase Frequency
 Highest Campaign Response
+
 Business Strategy
+
 Premium Membership
 Luxury Products
 Early Access to New Products
 Personalized Marketing
 Customer Retention Programs
-## Cluster 3 – Budget Customers
+**Cluster 3 – Budget Customers**
+
 Characteristics
+
 Lowest Income
 Lowest Spending
 Least Purchases
 Price Sensitive
+
 Business Strategy
+
 Discount Offers
 Cashback
 Bundle Deals
 Seasonal Promotions
 ## Power BI Dashboard
 
-The dashboard includes:
+**The dashboard includes:**
 
 Executive Dashboard
 Total Customers
