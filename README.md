@@ -24,6 +24,17 @@ Generate business recommendations for each customer segment
 ## Dataset Information
 
 The dataset contains customer demographic details, income, purchasing history, and marketing campaign responses.
+| Attribute            | Value   |
+| -------------------- | ------- |
+| Original Records     | 2,240   |
+| Processed Records    | 2,216   |
+| Original Features    | 29      |
+| Final Features       | 39      |
+| Missing Values       | Handled |
+| Duplicate Records    | Removed |
+| Clustering Algorithm | K-Means |
+| Number of Clusters   | 4       |
+
 
 ## Tools & Technologies
 
