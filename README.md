@@ -122,62 +122,57 @@ Silhouette Score
 ## Customer Segments
 **Cluster 0 – Older Low-Value Customers**
 
-Characteristics
-
+Characteristics:
 Moderate Income
 Older Customers
 Low Spending
 Few Purchases
 Low Campaign Response
 
-Business Strategy
-
+Business Strategy:
 Discount Coupons
 Loyalty Points
 Reminder Emails
 Re-engagement Campaigns
+
 **Cluster 1 – Affluent Loyal Customers**
 
-Characteristics
-
+Characteristics:
 High Income
 High Spending
 Frequent Purchases
 Good Campaign Acceptance
 
-Business Strategy
-
+Business Strategy:
 VIP Membership
 Personalized Recommendations
 Premium Product Bundles
 Loyalty Rewards
+
 **Cluster 2 – Premium High-Value Customers**
 
-Characteristics
-
+Characteristics:
 Highest Income
 Highest Spending
 Highest Purchase Frequency
 Highest Campaign Response
 
-Business Strategy
-
+Business Strategy:
 Premium Membership
 Luxury Products
 Early Access to New Products
 Personalized Marketing
 Customer Retention Programs
+
 **Cluster 3 – Budget Customers**
 
-Characteristics
-
+Characteristics:
 Lowest Income
 Lowest Spending
 Least Purchases
 Price Sensitive
 
-Business Strategy
-
+Business Strategy:
 Discount Offers
 Cashback
 Bundle Deals
@@ -187,25 +182,25 @@ Seasonal Promotions
 **The dashboard includes:**
 
 Executive Dashboard
-Total Customers
-Average Income
-Average Spending
-Average Purchases
-Campaign Response Rate
-Customer Demographics
-Age Distribution
-Education Analysis
-Marital Status
-Family Size Distribution
-Customer Segmentation
-Cluster Distribution
-Income by Cluster
-Spending by Cluster
-Purchases by Cluster
-Scatter Plot (Income vs Spending)
-Marketing Insights
-Campaign Acceptance
-Product Preferences
+Total Customers,
+Average Income,
+Average Spending,
+Average Purchases,
+Campaign Response Rate,
+Customer Demographics,
+Age Distribution,
+Education Analysis,
+Marital Status,
+Family Size Distribution,
+Customer Segmentation,
+Cluster Distribution,
+Income by Cluster,
+Spending by Cluster,
+Purchases by Cluster,
+Scatter Plot (Income vs Spending),
+Marketing Insights,
+Campaign Acceptance,
+Product Preferences.
 Cluster-wise Business Recommendations
 ## Key Business Insights
 Premium customers generate the highest revenue and should be retained through exclusive rewards.
